@@ -5,6 +5,8 @@
 Data analysis for grasp taxonomy
 
 Models I used so far are Random forest, Logistic Regression, SVM, Light GBM, XG boost
+
+In search, the model is optimized from a bunch of models and hyperparameters.
  
 # Requirement
  
